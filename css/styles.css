@@ -62,6 +62,12 @@ h3{
 .right-side{
   background-color: #75e3dd;
 }
+.left-side:hover{
+  background-color: #75e3dd;
+}
+.right-side:hover{
+  background-color: #003170;
+}
 .top-container{
   width: 500px;
   margin: 0 auto;
